@@ -5,6 +5,7 @@ Description -
 The old cartographer is frantically composing his thoughts from mind to
 material. He cannot forget his paths from past adventures and must cartograph
 before his mind lets them loose and they are lost forever.
+Shortdesc - an old cartographer
 
 Room
 ====
@@ -79,66 +80,65 @@ HighLands              /               /          Blue Fog            |
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- Kaaz -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
-                                       o
-                                       |
-                                   o - o - o
-                                   |   |   |
-                               o - o - o - o - o
-                                   |   |   |
-                                   o - o - o
-                                       |
-                               Mielikki Farmlands
+                                 o              ***POINTS OF INTEREST***
+                                 |               |F: a small fountain
+                             R - o - o           |R: an iron ring
+                             |   |   |
+                         o - o - F - o - o
+                             |   |   |
+                             o - o - o
+                                 |
+                         Mielikki Farmlands
 
 
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-  The Old Merchant Trail  -=-=-=-=-=-=-=-=-=-=-=-=-=-
 
-                                 Black Rock Trail
-                                        |
-        Gothra Desert -o-o-o-o-o-o-o-o-o-o-o-o-o-o-o
-                                                   |
-                                                   o
-                                                   |
-                                                   o
-                                                   |
-                                            Abbey -o-o- Mielikki Farmlands
+                 Black Rock Trail                  ***POINTS OF INTEREST***
+                        |                           |C: Broken remnants of a cart
+ Gothra Desert -o-o-o-o-o-o-o-o-o-o-C-o-o-o-o
+                                            |
+                                            o
+                                            |
+                                            o
+                                            |
+                                     Abbey -o-o- Mielikki Farmlands
 
 
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-   Abbey  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
-                                      o-o- The Old Merchant Trail
-                                      | |
-                                  o   o o o   o
-                                  |   |   |  /
-                                  o-o o-o-o-o-o
-                                    |   |
-                              o o o o o o o-o
-                             /  | | | | | | |
-                          o-o-o-o-o-o-o-o-o o
-                                | | | | |
-                              o-o-o-o o o-o
-                                | | |   |
-                                o-o-o o-o-o
-                                    |   |
-                                o-o-o-o o     o-o-o
-                                        |____/|/|/|
-                                       /|/ /  o-o-o
-                           Highlands -o-o-o   o | |
-                                      | | |    \| |
-                                      o-o-o   o-o o
-                                        |   _/  _/
-                                      o-o-o/   /
-                                      __|/| __/
-                                     /  | |/
-                                    o o o o
-                                    | | |
-                                    o o-o-o o
-                                    |   |   |\
-                                  o-o-o-o-o-o o
-                                    |   |   |
-                                  o-o o-o-o-o-o
-                                        |
-                                    o-o-o-o
-                                        |
-                                      o-o-o
+                         o-o- The Old Merchant Trail  ***POINTS OF INTEREST***
+                         + |                           |S: Room of the setting sun
+                     o   o o o   o
+                     |   |   |  /
+                     o-o o-o-o-o-o
+                       |   |
+                 o o o o o o o-o
+                /  | | | | | | |
+             o-o-o-o-o-o-o-o-o o
+                   | | | | |
+                 o-o-o-o o o-o
+                   | | |   |
+                   o-o-o o-o-o
+                       |   |
+                   o-o-o-o o            o-o-o
+                       U0  | U1U2      /|/| |\
+                        \  |/ /       /D|1| | D2
+              Highlands +o-o-o       D0 o-o-o
+                         | | |          o + +
+                         o-o-o           \+ +
+                           |            o-o o
+                     U3  o-o-o U4      /   /
+                      \    | |/       D3  D4
+                       o   o o
+                       |   |
+                       o o+o-o o
+                       ∨   |   |\
+                     o-o-o-o-o-o o
+                       |   |   |
+                     S-o o-o-o o-o
+                           |
+                       o-o-o-o
+                           |
+                         o-o-o
