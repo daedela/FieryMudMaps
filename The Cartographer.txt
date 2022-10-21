@@ -106,39 +106,116 @@ HighLands              /               /          Blue Fog            |
 
 
 
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-   Abbey  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+604
+map map-abbey-saint-george-map exquisitely-sealed-map
 
-                         o-o- The Old Merchant Trail  ***POINTS OF INTEREST***
-                         + |                           |S: Room of the setting sun
-                     o   o o o   o
-                     |   |   |  /
-                     o-o o-o-o-o-o
-                       |   |
-                 o o o o o o o-o
-                /  | | | | | | |
-             o-o-o-o-o-o-o-o-o o
-                   | | | | |
-                 o-o-o-o o o-o
-                   | | |   |
-                   o-o-o o-o-o
-                       |   |
-                   o-o-o-o o            o-o-o
-                       U0  | U1U2      /|/| |\
-                        \  |/ /       /D|1| | D2
-              Highlands +o-o-o       D0 o-o-o
-                         | | |          o + +
-                         o-o-o           \+ +
-                           |            o-o o
-                     U3  o-o-o U4      /   /
-                      \    | |/       D3  D4
-                       o   o o
-                       |   |
-                       o o+o-o o
-                       ∨   |   |\
-                     o-o-o-o-o-o o
-                       |   |   |
-                     S-o o-o-o o-o
-                           |
-                       o-o-o-o
-                           |
-                         o-o-o
+a map of the Abbey of St. George
+
+An exquisitely sealed map of the Abbey of St. George lays rolled up here.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-  Abbey of St. George  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+KEY: \ / = up/down      + = door
+
+                                  The Old
+                        o - o --> Merchant Trail       ***POINTS OF INTEREST***
+                        +   |                           |1: The Almoner
+  Main Abbey    o       o   1   o    U1                 |2: The Eldorian Emissary
+                |       |       |    /                  |3: The Infirmary
+                o - o   o - o - o - o - 2               |4: a cross in the library
+                    |       |                    
+     U2     o   o   o   o   o   o - o                     __________________
+     /      |   |   |   |   |   +   |                    |            o
+o - o - o - o - o - o - o - o - o   o                    |           /
+            |   |   |   |   |                            |          U1 
+        3 - o - o - o   o   o - o                        |     o
+            |   |   |       |                            |    /
+            o - o - o   o - o - o                        |   U2
+                    |       |                            |      Main Abbey
+            o - o - o - o   o                            |       Level 2
+                            |                            |___________________
+____________________________|________________________________________________
+                            |                             ___________________
+                         U3 |U4  U5                      |       o - o - o
+                         /  |/   /                       |      /|  /|  /|
+        Highlands <-- + o - o - o                        |     U3| U4| U5|
+                        |   |   |                        |       o - o - o
+                        o - o - o                        |        U8 +   +
+                            |                            |          \+   +
+                     U6 o - o - o U7                     |       o - o   o
+                     /      |   | /                      |      /       /
+                    o       o   o                        |     U6      U7
+                    |       |                            |       Library
+   Abbey            o   o + o - o   o                    |       Level 2
+   Library          ∨       |       | \                  |_____________________ 
+                    4 - o - o - o - o  D1                 _____________________
+                    |       |       |                    |
+                o - o   o - o - o   o - o                |        o
+                            |                            |         \ 
+                    o - o - o - o                        |         U8
+                            |                            |       Library
+                        o - o - o                        |       Level 3
+                                                         |_____________________
+                                                          _____________________
+                                                         |
+                                                         |         D1
+                                                         |          \
+                                                         |           o
+                                                         |       Library
+                                                         |      Basement 1
+                                                         |_____________________
+
+
+
+
+
+&3-=-=-=-=-=-=-=-=-=-=-=-=-  &2&bAbbey of St. George&0&3  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-&0
+KEY: &9&b\ /&0 = up/down      &5+&0 = door
+ 
+                                  &6The Old&0
+                        o &3- o -->&0 &6Merchant Trail&0       &3&b***POINTS OF INTEREST***&0
+                        &5+&0   &3|&0                           |&6&b1&0: The Almoner
+  &2Main Abbey&0    o       o   &6&b1&0   o    &9&bU1&0                 |&6&b2&0: The Eldorian Emissary
+                |       |       |    &9&b/&0                  |&6&b3&0: The Infirmary
+                o - o   o - o - o - o - &6&b2&0               |&6&b4&0: a cross in the library
+                    |       |                    
+     &9&bU2&0     o   o   o   o   o   o - o                     &9&b__________________&0
+     &9&b/&0      |   |   |   |   |   &5+&0   |                    &9&b|&0            o
+o - o - o - o - o - o - o - o - o   o                    &9&b|&0           &9&b/&0
+            |   &2|&0   |   |   |                            &9&b|&0          &9&bU1&0 
+        &6&b3&0 - o &2- o -&0 o   o   o - o                        &9&b|&0     o
+            |   &2|&0   |       |                            &9&b|    /&0
+            o - o - o   o - o - o                        &9&b|   U2&0
+                    &2|&0       &3|&0                            &9&b|&0      &2Main Abbey&0
+            &2o - o - o -&0 &4&bo&0   &3|&0                            &9&b|&0       &2Level 2&0
+                            &2o&0                            &9&b|___________________&0
+&9&b____________________________&0&3|&9&b________________________________________________&0
+                            &3|&0                             &9&b___________________&0
+                         &9&bU3&0 &3|&0&9&bU4  U5&0                      &9&b|&0       o - o - o
+                         &9&b/&0  &3|&0&9&b/   /&0                       &9&b|&0      &9&b/&0|  &9&b/&0|  &9&b/&0|
+        &6Highlands&3 <-- &5+&0 o - o - o                        &9&b|&0     &9&bU3&0| &9&bU4&0| &9&bU5&0|
+                        |   |   |                        &9&b|&0       o - o - o
+                        o - o - o                        &9&b|&0        &9&bU8&0 &5+&0   &5+&0
+                            |                            &9&b|&0          &9&b\&0|   |
+                     &9&bU6&0 o - o - o &9&bU7&0                     &9&b|&0       o - o   o
+                     &9&b/&0      |   | &9&b/&0                      &9&b|      /       /&0
+                    o       o   o                        &9&b|     U6      U7&0
+                    |       |                            &9&b|&0       &2Library&0
+   &2Abbey&0            o   o &5+&0 o - o   o                    &9&b|&0       &2Level 2&0
+   &2Library&0          V       |       | &9&b\&0                  &9&b|_____________________&0 
+                    &6&b4&0 - o - o - o - o  &9&bD1&0                 &9&b_____________________&0
+                    |       |       |                    &9&b|&0
+                o - o   o - o - o   o - o                &9&b|&0        o   
+                            |                            &9&b|         \&0
+                    o - o - o - o                        &9&b|         U8&0
+                            |                            &9&b|&0       &2Library&0
+                        o - o - o                        &9&b|&0       &2Level 3&0
+                                                         &9&b|_____________________&0
+                                                          &9&b_____________________
+                                                         |
+                                                         |         D1
+                                                         |          \
+                                                         |&0           o
+                                                         &9&b|&0       &2Library&0
+                                                         &9&b|&0      &2Basement 1&0
+                                                         &9&b|_____________________&0 
+/s
