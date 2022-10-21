@@ -1,0 +1,43 @@
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=- Abbey of St. George -=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+KEY: \ / = up/down      x + = door
+
+                                  The Old
+                        o - o --> Merchant Trail       ***POINTS OF INTEREST***
+                        +   |                           |1: The Almoner
+  Main Abbey    o       o   1   o     o                 |2: The Eldorian Emissary
+                |       |       |    /                  |3: The Infirmary
+                o - o   o - o - o - o - 2               |4: a cross in the library
+                    |       |
+      o     o   o   o   o   o   o - o
+     /      |   |   |   |   |   +   |
+o - o - o - o - o - o - o - o - o   o
+            |   |   |   |   |
+        3 - o - o - o   o   o - o
+            |   |   |       |
+            o - o - o   o - o - o
+                    |       |
+            o - o - o - o   o
+                            |
+____________________________|________________________________________________
+                            |                             ___________________
+                         U1 |U2  U3                      |       o - o - o
+                         /  |/   /                       |      /|  /|  /|
+        Highlands <-- + o - o - o                        |     U1| U2| U3|
+                        |   |   |                        |       o - o - o
+                        o - o - o                        |        U8 +   +
+                            |                            |          \+   +
+                     U4 o - o - o U5                     |       o - o   o
+                     /      |   | /                      |      /       /
+                    o       o   o                        |     U4      U5
+                    |       |                            |       Library
+   Abbey            o   o + o - o   o                    |       Level 2
+   Library          ∨       |       | \                  |_____________________
+                    4 - o - o - o - o  o
+                    |       |       |
+                o - o   o - o - o   o - o
+                            |
+                    o - o - o - o
+                            |
+                        o - o - o
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
