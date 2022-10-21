@@ -1,29 +1,51 @@
-Character
+mob 600
 =========
-Name - A cartographer is busy mapping at his desk.
+names cartographer old-cartographer man
+short desc - the old cartographer
+long desc - A cartographer is busy mapping at his desk.
 Description -
-The old cartographer is frantically composing his thoughts from mind to
-material. He cannot forget his paths from past adventures and must cartograph
+The old cartographer is frantically transposing his thoughts from mind to
+material.  He cannot risk forgetting his paths from past adventures and must cartograph
 before his mind lets them loose and they are lost forever.
-Shortdesc - an old cartographer
 
-Room
+/f
+
+Room 3155
 ====
 The Cartographer's Room
    This cozy little room on the main floor of the inn belongs to a skilled
-cartographer. It has been meticulously filled from top to bottom side to side,
-on every wall with books and scrolls. The room is smell and full but organized.
+cartographer.  It has been meticulously filled from top to bottom, side to side,
+on every wall with books and scrolls.  The room is small and full but organized.
+
+/fi
 
 Location
 =========
-North of 3052. I was thinking this cartographer could be staying at the iin during his travels
-and not have a "permanent" residence in Meilekki.
+exit s -> 3052
+North of 3052. I was thinking this cartographer could be staying at the in during his travels
+and not have a "permanent" residence in Mielikki
+
+redit 3052, exit n -> 3155
 
 Features
 ========
 Randomly emotes (or on enter)
-"The Cartographer mutters something about his memory fading."
-list
+trig 600, random 5
+
+mecho The Cartographer mutters something about his memory fading.
+/s
+
+shop 3155
+keeper mob 600
+products:
+3090
+600
+601
+602
+603
+604
+
+sell 1.1, buy .95
 
  ##  Lvl  Item                                                   Cost
 ---  ---  ------------------------------------------------  -------------
@@ -35,35 +57,72 @@ list
  6)   10  A map of the Abbey                                 More expensive but still relatively cheap I think?
 
 
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- Greater Meilekki Area -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- Greater Mielikki Area -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
-               ____________Anduin_____
-    Gothra _  /                       \____________   Mystwatch     Enchanted Forest
-    Desert  \/                                     \ /                 |
-             \                                      |      Citadel of Testing
-              \                                     |          /
-       The ----------------- Bug Fields -----------Meilekki ----- Light Forest-- The Misty Caverns --- Drow City
-       Abbey             /               /             |       \
-         /              /               /              |    Twisted Forest
-HighLands              /               /          Blue Fog            |
-               Rock Outback       Morgan Hill     River/Trail      Arabel Ocean
-                                                                      |
-                                                                      Southern Continent
+                           City of
+               ____________Anduin_____               Fortress of
+  __Gothra _  /                       \____________   Mystwatch     Enchanted Hollow
+ /  Desert  \/                                     \ /                 |
+|            \                                      |      Citadel of Testing
+|             \                                     |          /
+|     Abbey----------------- Farmlands -----------Mielikki ----- Light Forest-- The Misty Caverns
+|    of St. George       /               /             |       \                    \             
+\        /              /               /              |    Twisted Forest           \             
+Highlands              /               /          Blue-Fog      |      |           Rocky Tunnels
+               Rocky Outback      Morgan Hill     River/Trail   |      |                 
+                                                       |       Rhell  Arabel Ocean       
+                                                       \_______Forest  |             
+                                                                       |
+                                                                      South Caelia
+
+
+
+
+(for cut-and-paste building)
+600
+map large-scroll greater-mielikki-area-map
+
+A map of the greater Mielikki area
+
+ A large scroll depicting the surrounds of the Town of Mielikki lies here.
+
+
+&3-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- &2&bGreater Mielikki Area&0&3 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-&0
+&3
+                           &6City of&3
+               ____________&6Anduin&3_____
+  __&6Gothra&3 _  /                       \____________   &6Mystwatch&3     &6Enchanted Hollow&3
+ /  &6Desert&3  \/                                     \ /                 |
+|            \                                      |      &6Citadel of Testing&3
+|             \                                     |          /
+|     &6Abbey&3----------------- &6Farmlands&3 -----------&6Mielikki&3 ----- &6Light Forest&3-- &6The Misty Caverns&3
+|    &6of St. George&3       /               /             |       \                    \             
+\        /              /               /              |    &6Twisted Forest&3           \             
+&6Highlands&3              /               /          &6Blue-Fog&3      |      |           &6Rocky Tunnels&3
+               &6Rocky Outback&3      &6Morgan Hill&3     &6River/Trail&3   |      |                 
+                                                       |       &6Rhell&3  &6Arabel Ocean&3       
+                                                       \_______&6Forest&3  |             
+                                                                       |
+                                                                      &6South Caelia&3
+
+
+
 
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-  Meilekki Farmlands  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+KEY: \ / = up or down   (#) = door
 
-            DF    HF                      KM       K     ***POINTS OF INTEREST***
-             |     |                       |       |      |W: A little Stone Well
- A-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o- Me  |A: The Abbey
-   | | | | | | | | | | | | | | | | | | | | | | | | |      |K: Kaaz
+             DF    FR                      KM      Kz    ***POINTS OF INTEREST***
+             |     |                       |       |      |F : A little stone well
+Ab-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o- Me  |Ab: The Abbey of St. George
+   | | | | | | | | | | | | | | | | | | | | | | | | |      |Kz: Temple of the Kaaz
    o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o      |MH: Morgan Hill
    | | | | | | | | | | | | | | | | | | | | | | | | |      |RO: Rocky Outback
-   o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o      |Me: Meilekki
+   o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o      |Me: Town of Mielikki
    | | | | | | | | | | | | | | | | | | | | | | | | |      |DF: The Dairy Farm
-   o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o      |HF: The Hive/Frakati
+   o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o      |FR: Frakati Reservation
    | | | | | | | | | | | | | | | | | | | | | | | | |      |KM: Kingdom Of The Meer Cats
-   o-o-o-o-o-o-o-o-o-o-o-o-W-o-o-o-o-o-o-o-o-o-o-o-o
+   o-o-o-o-o-o-o-o-o-o-o-o-F-o-o-o-o-o-o-o-o-o-o-o-o
    | | | | | | | | | | | | | | | | | | | | | | | | |
    o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o
    | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -71,38 +130,124 @@ HighLands              /               /          Blue Fog            |
    | |       | | |       | | |       | | |       | |
    o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o
    | |       | | |  \    | | |       | | |       | |
-   | |       | | |   o-o | | |       | | |       | |
+   | |       | | |  #o-o | | |       | | |       | |
    o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o
    | | |                           |
    RO                             MH
 
 
 
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- Kaaz -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+601
+map map-mielikki-farmlands-map farm-lands farmland
+
+a map of Mielikki Farmland
+
+A map of the Mielikki Farmlands awaits, inviting new adventurers!
+
+&3-=-=-=-=-=-=-=-=-=-=-=-=-=-=-  &2&bMielikki Farmlands&0&3  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-&0
+KEY: \ / = up or down   # = door
+
+            &6DF&3    &6FR&3                      &6KM&3       &6Kz&3    &3&b***POINTS OF INTEREST***&0
+&3             |     |                       |       |      &0|&4&bF&0 :  A little stone well
+&6Ab&3-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o- &6Me&0  |&6Ab&0:  The Abbey of St. George
+   &3| | | | | | | | | | | | | | | | | | | | | | | | |&0      |&6Kz&0:  Temple of the Kaaz
+   &3o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o&0      |&6MH&0: Morgan Hill
+   &3| | | | | | | | | | | | | | | | | | | | | | | | |&0      |&6RO&0: Rocky Outback
+   &3o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o&0      |&6Me&0: Town of Mielikki
+   &3| | | | | | | | | | | | | | | | | | | | | | | | |&0      |&6DF&0: The Dairy Farm
+   &3o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o&0      |&6FR&0: Frakati Reservation
+   &3| | | | | | | | | | | | | | | | | | | | | | | | |&0      |&6KM&0: Kingdom Of The Meer Cats
+   &3o-o-o-o-o-o-o-o-o-o-o-o-&4&bF&0&3-o-o-o-o-o-o-o-o-o-o-o-o&0
+   &3| | | | | | | | | | | | | | | | | | | | | | | | |&0
+   &3o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o&0
+   &3| | | | | | | | | | | | | | | | | | | | | | | | |&0
+   &3o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o&0
+   &3| |       | | |       | | |       | | |       | |&0
+   &3o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o&0
+   &3| |       | | |  \    | | |       | | |       | |&0
+   &3| |       | | |  #o-o | | |       | | |       | |&0
+   &3o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o&0
+   &3| | |                           |&0
+   &6RO&3                             &6MH&0
+
+
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-  Temple of the Kaaz  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
                                  o              ***POINTS OF INTEREST***
                                  |               |F: a small fountain
-                             R - o - o           |R: an iron ring
-                             |   |   |
-                         o - o - F - o - o
+                             X - o - o           |X: a strange flooring...
+                             |   |   |           |o (purple): a powerful shrine of thought
+                        o  - o - F - o - o       |o (blue): a powerful shrine of wisdom
                              |   |   |
                              o - o - o
                                  |
+                                 v
+                                 to
                          Mielikki Farmlands
+
+
+
+
+&3-=-=-=-=-=-=-=-=-=-=-=-=-=-=-  &2&bTemple of the Kaaz&0&3  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-&0
+
+
+                                 o              ***POINTS OF INTEREST***
+                                 |               |&4&bF&0: a small fountain
+                             &1&bX&0 - o - o           |&1&bX&0: a strange flooring...
+                             |   |   |           |&5&bo&0: a powerful shrine of thought
+                         &5&bo&0 - o - &4&bF&0 - o - &4&bo&0       |&4&bo&0: a powerful shrine of wisdom
+                             |   |   |
+                             o - o - o
+                                 |
+                                 v
+                                 &6to
+                         Mielikki Farmlands&0
 
 
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-  The Old Merchant Trail  -=-=-=-=-=-=-=-=-=-=-=-=-=-
 
-                 Black Rock Trail                  ***POINTS OF INTEREST***
-                        |                           |C: Broken remnants of a cart
- Gothra Desert -o-o-o-o-o-o-o-o-o-o-C-o-o-o-o
-                                            |
-                                            o
-                                            |
-                                            o
-                                            |
-                                     Abbey -o-o- Mielikki Farmlands
+                  Black Rock Trail                  ***POINTS OF INTEREST***
+                         ^                           |X: an old cart
+                         |                           
+ Gothra Desert <-o-o-o-o-o-o-o-o-o-o-X-o-o-o-o
+                                             |
+                                             o
+                                             |
+                                             o
+                                             |
+                                      Abbey <-o-o-> Mielikki Farmlands
+                                   of St. George
+
+
+
+
+603
+map map-old-merchant-trail-map
+
+a map of The Old Merchant Trail
+
+A map of The Old Merchant Trail to the far west of Mielikki lies here.
+
+
+&3-=-=-=-=-=-=-=-=-=-=-=-=-=-  &2&bThe Old Merchant Trail&0&3  -=-=-=-=-=-=-=-=-=-=-=-=-=-&3
+
+                  &5Black Rock Trail&0                  &3&b***POINTS OF INTEREST***&3
+                         ^                           |&1&bX&0: an old cart&3
+                         |                           
+ &5Gothra Desert&3 <-o-o-o-o-o-o-o-o-o-o-&1&bX&0&3-o-o-o-o
+                                             |
+                                             o
+                                             |
+                                             o
+                                             |
+                                      &5Abbey&3 <-o-o-> &5Mielikki Farmlands&0
+                                   &5of St. George&0
+
 
 
 
@@ -142,3 +287,16 @@ HighLands              /               /          Blue Fog            |
                        o-o-o-o
                            |
                          o-o-o
+
+
+
+604
+map map-abbey-saint-george-map exquisitely-sealed-map
+
+a map of the Abbey of St. George
+
+An exquisitely sealed map of the Abbey of St. George lays rolled up here.
+
+
+
+
