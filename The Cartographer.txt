@@ -106,39 +106,53 @@ HighLands              /               /          Blue Fog            |
 
 
 
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-   Abbey  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+-=-=-=-=-=-=-=-=-=-=-=-=-  Abbey of St. George  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+KEY: \ / = up/down      + = door
 
-                         o-o- The Old Merchant Trail  ***POINTS OF INTEREST***
-                         + |                           |S: Room of the setting sun
-                     o   o o o   o
-                     |   |   |  /
-                     o-o o-o-o-o-o
-                       |   |
-                 o o o o o o o-o
-                /  | | | | | | |
-             o-o-o-o-o-o-o-o-o o
-                   | | | | |
-                 o-o-o-o o o-o
-                   | | |   |
-                   o-o-o o-o-o
-                       |   |
-                   o-o-o-o o            o-o-o
-                       U0  | U1U2      /|/| |\
-                        \  |/ /       /D|1| | D2
-              Highlands +o-o-o       D0 o-o-o
-                         | | |          o + +
-                         o-o-o           \+ +
-                           |            o-o o
-                     U3  o-o-o U4      /   /
-                      \    | |/       D3  D4
-                       o   o o
-                       |   |
-                       o o+o-o o
-                       ∨   |   |\
-                     o-o-o-o-o-o o
-                       |   |   |
-                     S-o o-o-o o-o
-                           |
-                       o-o-o-o
-                           |
-                         o-o-o
+                                  The Old
+                        o - o --> Merchant Trail       ***POINTS OF INTEREST***
+                        +   |                           |1: The Almoner
+  Main Abbey    o       o   1   o    U1                 |2: The Eldorian Emissary
+                |       |       |    /                  |3: The Infirmary
+                o - o   o - o - o - o - 2               |4: a cross in the library
+                    |       |                    
+     U2     o   o   o   o   o   o - o                    ___________________
+     /      |   |   |   |   |   +   |                    |            o
+o - o - o - o - o - o - o - o - o   o                    |           /
+            |   |   |   |   |                            |          U1 
+        3 - o - o - o   o   o - o                        |     o
+            |   |   |       |                            |    /
+            o - o - o   o - o - o                        |   U2
+                    |       |                            |      Main Abbey
+            o - o - o - o   o                            |       Level 2
+                            |                            |___________________
+____________________________|________________________________________________
+                            |                            ____________________
+                         U3 | U4 U5                      |       o - o - o
+                         /  | /  /                       |      /|  /|  /|
+        Highlands <-- + o - o - o                        |    U3 | U4| U5|
+                        |   |   |                        |       o - o - o
+                        o - o - o                        |           +U8 +
+                            |                            |           +/  +
+                     U6 o - o - o U7                     |       o - o   o
+                     /      |   | /                      |      /       /
+                    o       o   o                        |     U6      U7
+                    |       |                            |       Library
+   Abbey            o   o + o - o   o                    |       Level 2
+   Library          ∨       |       | \                  |_____________________ 
+                    4 - o - o - o - o  D1                ______________________
+                    |       |       |                    |
+                o - o   o - o - o   o - o                |             o
+                            |                            |            /
+                    o - o - o - o                        |           U8
+                            |                            |       Library
+                        o - o - o                        |       Level 3
+                                                         |_____________________
+                                                         ______________________
+                                                         |
+                                                         |         D1
+                                                         |          \
+                                                         |           o
+                                                         |       Library
+                                                         |      Basement 1
+                                                         |_____________________
