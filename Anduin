@@ -1,0 +1,83 @@
+-=-=-=-=-=-=-=-=-=-=-=-=-=- Anduin - Dwarven Sector -=-=-=-=-=-=-=-=-=-=-=-=-=-
+KEY: \ / = up/down      x + = door
+
+                 o - o - o - o
+                 |                   +   +
+             o - o   2   o + 4   o - o - o +
+             |       |   |       |       |
+             o   1 - o   o   o - o   o - o - o - o
+     Black   |       |   |   |       |           |
+     Rock <- o + o - o - o - o   7 - o + 8   9 + o -> See Upper Level
+     Trail   |       |   |   |       |           |
+             o       3   o   o - o   o - o - o - o
+             |           |       |       |
+             o - o       o - 5   o - o - o +     ***POINTS OF INTEREST***
+                 |               |   +   +        |1: The Weaponsmith
+                 o - o - o - o   6                |2: The Blacksmith
+                                                  |3: The Warrior's Guild
+                                                  |4: The Drunken Ogre Inn
+                                                  |5: The Breadbasket
+                                                  |6: A Post Office
+                                                  |7: The Filled Pantry
+                                                  |8: Shawn's Tavern
+                                                  |9: Mercenaries Guild
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-  Anduin - Upper Level   -=-=-=-=-=-=-=-=-=-=-=-=-=-
+KEY: \ / = up/down      x + = door
+
+               Theatre <- o           o - o    ***POINTS OF INTEREST***
+                          |           |   |     |1: Serena's Garb
+                          o - o - 5   v   |     |2: Druid's Guild
+                          |See Poor Sector|     |3: The Bank
+                          o   3   1       |     |4: Shula's Stablehouse
+                          |   |   |       |     |5: The Inn
+                      6 + o - o - o - o - o     |6: Festival Grounds
+                     /    |   |   |             |7: Mages Guilds
+                    o     o   4   2             |8: The Gem Exchange
+                          |                     |9: The High Tower Ballroom
+                      7 - o - o     9
+                          |        /
+                          o - o - o
+                          |
+                          o
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=-=-=-=-=-=-=-=-=-  Anduin - The Poor Sector   -=-=-=-=-=-=-=-=-=-=-=-=-
+KEY: \ / = up/down      x + = door
+
+                                 o - 1
+                                 |
+                             2 - o           o - 6         o
+                                 |           |             |
+               Upper         9 - o           o + o     o + o + o
+               Level +           |           |             |
+                 ^   o           o   3       o   o   o o + o + o
+        See      |   |           |   |       |   |   |    /
+      Dwarven <- o - o - o - o - o - o - o - o - o - 8 - o
+      Sector     |       |   |           |   |   |       |
+                 o       o   1           4   5   o       o
+                 |       |                       |
+                /    o + o                       o
+               / Eldoria |                       |
+              /    |     o - o                   o - o
+             /     o                             |
+       o - -/- o   |                             o - o
+       |   |   | + o +                               +
+       o - o   |   |                                 7
+           o - | - o           ***POINTS OF INTEREST***
+           |   |                |1: Shingle's Soup Kitchen
+           o - o                |2: Phillip's Backdoor Bar
+                                |3: Falstin's Grocery
+                                |4: The Ole Witch Tavern
+                                |5: The Anduin Apothacary
+                                |6: The Pawn Shop
+                                |7: A master of the rogues
+                                |8: Entrance to the Red Feathered Nest
+                                |9: Kathra's Maps
+
+
+-   =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
