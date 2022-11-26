@@ -1,18 +1,13 @@
 Ickle Cartographer
 ======================
 
-A sign just outside the shop in room 10028
 
-Fire Avenue
-   This is the only north-south road in Ickle, connecting Blade Square to Skull
-Way and the south gate of town.  Directly north is Blade Square and just south
-is the intersection with Blood Lane.  The smell of horses drifts in through the
-wide-open door of a stable to the west.
-Obvious exits: -N -E -S -W
+obj 10039
+sign
+
+the cartographer sign
+
 A handcrafted sign hangs over shop to east.
-
-'l sign' yields
-
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
          (               )                            )
@@ -28,16 +23,17 @@ A handcrafted sign hangs over shop to east.
 
 Character
 ============
-Name - The Knight Champion's Worthless Brother
+names: brother knight-champion's-worthless-brother knight-champions-worthless-brother cartographer,
+short desc: The Knight Champion's Worthless Brother
+long desc: The Knight Champion's worthless brother tends to the shop.
+
 Race - Human
 Gender - Male
-Short Name - the worthless brother
 Description -
-A humble looking young man sits thoughtfully at his desk. He isn't small for a
-human but in a town full of Barbarians he is very underwealming in comparison.
-He is determined to prove his worth after living in his brother's shadow. You
-judge him as critically as his family has but save your judgement until after
-you examine his maps... You will alter your perceptions! He is eager to help.
+A humble looking young man sits thoughtfully at his desk.  He isn't small for a
+human but in a town full of barbarians he is very underwhelming in comparison.
+He is determined to prove his worth after living in his brother's shadow.
+
 
 Room
 =====
@@ -47,12 +43,16 @@ recently set up show here. He has a large chest in the corner hand carved with
 the same design as the sign outside the shop. Certainly, this could be made
 into a wonderful business but something must be done about the smell from
 across road.
-Obvious exits: -W
-A handcrafted chest sits in the corner
 
 
-the chest is locked and when you look at it.
 
+
+obj 10040
+a handcrafted chest
+
+chest handcrafted-chest hand-crafted
+
+A handcrafted chest sits in the corner.
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
        _________________________________________________________________
       /=================================================================\
