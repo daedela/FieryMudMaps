@@ -52,3 +52,61 @@ KEY: \ / = up/down      x + = door
          o -- o -- o                      D1
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+&3-=-=-=-=-=-=-=-=-=-=-=-=-  &2&bSplit Skull: Ground Level&0  &3-=-=-=-=-=-=-=-=-=-=-=-=-&0
+KEY: &9&b\ /&0 = up/down      &5x&0, &5+&0 = door
+ 
+                                    &3o - o - o - o - o - o - o - o - o
+                                    |           |   |       |       |
+                                    o - &1&b3       &0o&3 - o       &1&b5&0&3       o
+                                    |               |               |
+      &2- o - o - o - o&3               o               o               o
+     &2/      |   |   |&3               |               |               |
+    &2/       o - o - o&3               o   &0o - o - o&3   o - &1&b2&0&3       &0o&3 - o
+   &2|        |   |   |&3               |   |       |   |           |   |
+   &2v        o - o - o       o - &1&b1&0&2 - &3o - o - o - o - o - o - o - o - o
+            &2|   |   |       |   |&3   |   |       |   |               |
+&6Mystwatch   &2o - o - o - o - o - o   &3o   &0o - o - o&3   o     &9&bU1&0&3        o
+&6Hall and    &2|   |   |   |   |   |   &3|               |    &9&b/&0&3          |
+&6Swamp       &2o - o - o - o - o - o   &3o             &1&b4&0&3 o - o           o
+            &2|   |   |               &3|            &9&b/&0&3  |               |
+    &2^       o - o - o               &30       &0o - o&3   o               o
+    &2|       |   |   |               &3|       |       |               |
+    &2|   o - o - o - o               &3o - o - o - o - o - o - o - o - o
+    &2|   |   |   |   |
+    &2o - o - o - o - o                     &3&b***POINTS OF INTEREST***&0
+            &2|                              |&1&b1&0 : a war banner
+            &2v                              |&1&b2&0 : Split Skull Supply Hut
+                                           |&1&b3&0 : Split Skull Armory Hut
+     &6Enchanted Forest                      |&1&b4&0 : Split Skull Inn
+                                           |&1&b5&0 : Split Skull Stables
+     *See &2&bfloor2&0 for more
+ 
+&3-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-&0
+/s
+
+
+&3-=-=-=-=-=-=-=-=-=-=-=-=-  &2&bSplit Skull: Upper Level&0  &3-=-=-=-=-=-=-=-=-=-=-=-=-&0
+KEY: &9&b\ /&0 = up/down      &5x&0, &5+&0 = door
+ 
+&3                  o - o - o
+                  |       |
+          o - o - o       o - o - o - o - o - o - o
+          |       |       |               |       |
+          o       o - o - o               o       o
+          |                               |
+          o                               o
+          |                               |      &3&b***POINTS OF INTEREST***&0&3
+          o                               o       &0|&1&b1&0: Black Legion Embassy&3
+          |                               |       &0|&1&b2&0: Temple of the Dark Flame&3
+          o                               o
+          |                               |
+     o -- o -- o                          o - o
+     |         |                          |   |
+     |      &1&b2&0&3  |                          &1&b1&0&3   o
+     o      &0|&3  o                             &9&b/&0&3
+     |      &0o&3  |                        o - o
+     |     &9&b/&0&3   |                       &9&b/&0&3
+     o -- o -- o                      &9&bU1&0&3
+ 
+&3-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-&0
+/s
