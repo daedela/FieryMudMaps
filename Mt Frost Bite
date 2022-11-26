@@ -34,3 +34,42 @@ KEY: \ / = up/down      x + = door
               Ickle <- o
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+&3-=-=-=-=-=-=-=-=-=-=-  &2&bMount Frostbite && Surounding Area&0  &3-=-=-=-=-=-=-=-=-=-=-&0
+KEY: &9&b\ /&0 = up/down      &5x&0, &5+&0 = door
+ 
+                                 o
+                                 |&9&b\&0
+                                 o o - o - o - o - o - o     o - o - o
+                                 |                 |         |   |   |
+       &1&b2&0 - o - o     o           o                 o         o - o - o
+       |       |    &9&b/&0|           |                  &9&b\&0        |   |   |
+       o       o - o o       o - o                   o - o - o - o - &1&b4&0
+       |             |       |                               |   |   |
+       o - o         o - o - o                               o - o - o
+           |                 |                               |   |   |
+         &5+&0 o - o             o                               &1&b3&0 - &1&b5&0 - o
+           |   |            &9&b/&0
+           o - o           o
+                           |                  &3&b***POINTS OF INTEREST***&0&3
+                           o - o - o - &1&b1&0       |&1&b1&0: Berserker's Guild&3
+                               |               |&1&b2&0: an ice sculpter&3
+                               o               |&1&b3&0: a crack in the ice&3
+                               |               |&1&b4&0: an odd monolith&3
+                               o               |&1&b5&0: a strange ice sculpture&3
+                               |
+                               o
+                               |
+                       o - o - o
+                       |
+                       o
+                       |
+                       o
+                       |
+                       o
+          &6Village of&3   |
+            &6Ickle&3   <- o
+ 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-&0
+/s
