@@ -1,0 +1,35 @@
+Ogakh Cartographer
+===================
+
+Character
+==========
+name list: The Outcast Cartographer
+short desc: the cartographer
+long desc: The Outcast Cartographer grumpily writing at his desk
+Race: Orc
+Gender: Male
+Size: Large
+Description -
+This tall slender orc is obviously not in the mood to deal with the churlish.
+You'd better take care. He is wearing armor that nearly resembles the orc
+patroller's in town. Something has terrible must have happened to banish his
+shop so far from town... Or is it here after his banishment?
+
+
+Room
+=====
+Cartographer's Shop
+   It is not clear what the room was before the outcast made it his shop but
+clearly it wasn't a room that held anything with value. It is not raining,
+though if it were the slatted roof would sure not keep it out this is clear
+from slew of water damaged maps leaning against the wall behind the desk.
+
+On entry
+The cartographer shouts, 'Quickly now, tell me what you want and get out!'
+
+Every few seconds like the one in Mielikki
+The cartographer says, 'I don't have all day!'
+
+Location
+=========
+East of the room named Outskirts on the south end of town.
