@@ -1,0 +1,72 @@
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- Black Woods -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+KEY: \ / = up/down      x + = door
+
+                         Kaaz Plains
+                          ^   ^   ^
+                          |   |   |
+                          o - o - o   o - o
+                          |           |   |
+      Minithawkino <- o - o   o - o - o - o - o - o
+          Mines       |   |   |   |   |   |   |   |
+                      o - o - o - o - o - o - o - o - o - o - o - o -> The
+                      |   |   |       |   |   |   |   |   |   |   |   Canyon
+                      o - o - o   o - o - o - o - o - o - o - o   o
+                      |   |       |   |   |   |   |   |   |   |   |
+                      o - o - o - o   o - o - o - o - o - o - o - o
+                                                  |   |   |   |   |
+                                                  o - o - o - o - o
+                                                      |   |   |   |
+                                    Logging           o - o - o - o
+                                     Camp             |   |   |   |
+                                      ^               o - o - o - o
+                                      |                       |   |
+                              o - o - o - o - o - o - o - o   o - o
+                              |   |   |   |   |   |       |   |   |
+                              o - o - o - o - o - o       o - o - o
+                              |           |
+                              v           o
+                           Eldorian       |
+                           Foothills      o
+                                          |
+                                          v
+                                    The Northern
+                                        Swamp
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+&3-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- &2&bBlack Woods&0 &3-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-&0
+KEY: &9&b\ /&0 = up/down      &5x&0, &5+&0 = door     &3r&0 = Nikozian Trail
+ 
+                         &6Kaas Plains&2
+                          ^   ^   &3^&2
+                          |   |   &3|
+                          r - r - r&2   o - o&3
+                          |&2           |   |
+       &6Minithawkin&2 <- o - &3r&2   o - o - o - o - o - o
+           &6Mines&2      |   &3|&2   |   |   |   |   |   |
+                      o - &3r&2 - o - o - o - o - o - o - o - o - o - o -> &6The&2
+                      |   &3|&2   |       |   |   |   |   |   |   |   |   &6Canyon&2
+                      o - &3r&2 - o&3   r - r&2 - o - o - o - o - o - o   o
+                      |   &3|       |   |&2   |   |   |   |   |   |   |
+                      o - &3r - r - r   r - r - r - r&2 - o - o - o - o&3
+                                                  |&2   |   |   |   |&3
+                                                  r - r&2 - o - o - o&3
+                                                      |&2   |   |   |&6
+                                    Logging&3           r - r&2 - o - o&6
+                                     Camp&2             |   &3|&2   |   |&3
+                                      ^&2               o - &3r - r&2 - o&3
+                                      |                       |&2   |&3
+                              o - o - o&2 - o - o - &3r - r - r   r&2 - o&3
+                              |&2   |   &3|&2   |   |   &3|       |   |&2   |&3
+                              o&2 - o - &3o - r - r - r       r - r&2 - o&3
+                              |           |
+                              v           r
+                           &6Eldorian&3       |
+                           &6Foothills&3      r
+                                          |
+                                          v
+                                    &6The Northern
+                                        Swamp&3
+ 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-&0
+/s

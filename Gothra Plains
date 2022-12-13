@@ -1,0 +1,57 @@
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-  Gothra Plains  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+KEY: \ / = up/down      x + = door
+
+                                                            o - o - o
+      ***POINTS OF INTEREST***                              |   |   |
+       |1: A large smooth stone dais                o - o - o - o - o - o - o
+       |2: The Water Hole                           |   |   |   |   |   |   |
+                                        o - o - o - o - o - o - o - o - o - o
+                                        |           |   |   |   |   |   |   |
+                                    o - o           o - o - o - o - o - o - o
+                                    |               |   |   |   |   |   |   |
+                                    o               o - o - o - 2 - o - o - o
+                                    |               |   |   |   |   |   |   |
+                                o - o               o - o - o - o - o - o - o
+                                |                       |   |   |   |   |
+                    o - o - o - o                       o - o - o - o - o
+                    |                                       |   |   |
+                o - o                                       o - o - o
+                |                                               |
+    1   o - o - o                                   o - o       o
+    |   |                                          /    |       |
+o - o - o                                     o - o     o - o - o
+                                              |
+                                              o - o - o - o - o -> The Desert
+                                                                   of Gothra
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+&3-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-  &2&bGothra Plains&0  &3-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-&0
+KEY: &9&b\ /&0 = up/down      &5x&0, &5+&0 = door
+ 
+                                                            &2o - o - o
+      &3&b***POINTS OF INTEREST***&0&2                              |   |   |&0
+       |&1&b1&0: A large smooth stone dais&2                o - o - o - o - o - o - o&0
+       |&4&b2&0: the watering hole&2                        |   |   |   |   |   |   |&3
+                                        o - o - o - &2o - o - o - o - o - o - o&3
+                                        |           &2|   |   |   |   |   |   |&3
+                                    o - o           &2o - o - o - o - o - o - o&3
+                                    |               &2|   |   |   |   |   |   |&3
+                                    o               &2o - o - o - &4&b2&0&2 - o - o - o&3
+                                    |               &2|   |   |   |   |   |   |&3
+                                o - o               &2o - o - o - o - o - o - o&3
+                                |                       &2|   |   |   |   |&3
+                    o - o - o - o                       &2o - o - o - o - o&3
+                    |                                       &2|   |   |&3
+                o - o                                       &2o - o - o&3
+                |                                               |
+    &1&b1&0&3   o - o - o                                   o - o       o
+    |   |                                          &9&b/&0&3    |       |
+o - o - o                                     o - o     o - o - o
+                                              |
+                                              o - o - o - o - o -> &6The Gothra
+                                                                     Desert&3
+ 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-&0
+/s

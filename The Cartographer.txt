@@ -25,14 +25,15 @@ Randomly emotes (or on enter)
 "The Cartographer mutters something about his memory fading."
 list
 
+
  ##  Lvl  Item                                                   Cost
 ---  ---  ------------------------------------------------  -------------
- 1)    1  A small map of Meilekki                                 I dunno cheap?
- 2)    1  A map of the greater Meilekki Area
- 3)    1  A map of Meilekki Farmlands (Newbie)
- 4)    1  A map of Kaaz
- 5)    1  A map of The Old Merchant Trail
- 6)   10  A map of the Abbey                                 More expensive but still relatively cheap I think?
+ 1)    1  a map of the Abbey of St. George                    0p,2g,1s,4c
+ 2)    1  a map of The Old Merchant Trail                     0p,1g,0s,6c
+ 3)    1  a map of the Temple of the Kaaz                     0p,1g,0s,6c
+ 4)    1  a map of the Mielikki Farmlands                     0p,1g,0s,6c
+ 5)    1  a map of the greater Mielikki area                  0p,1g,0s,6c
+ 6)    1  a small map of Mielikki                             0p,0g,5s,3c
 
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- Greater Meilekki Area -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-

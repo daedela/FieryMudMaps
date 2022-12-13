@@ -1,0 +1,328 @@
+First is just the entire SC. Then I broke it up into pages after that.
+
+-=-=-=-=-=-=-=-=-=-=- South Caelia Forests and Mountains  -=-=-=-=-=-=-=-=-=-=-
+KEY: \ / = up/down      x + = door
+
+                                                                                                                                  1
+                                                                                                                                  |    The
+                                                                                                                                  o Beachhead
+                                                                                                                                  |/
+                                                                                                                          o - o - o - o - o
+                                                                                                                              |           |
+                                                                                                                              o           o
+                                                                                                                              |           |
+                                                                                                                          o - o       o - o - o
+                                                                                                                          |           |       |
+                                                                                                                          o           o       o
+                                                                                                                          |           |       |
+                                                                                                                          o           o - o - o
+                                                                                                                          |               |
+                                                                                                                      o - o - o           o
+                                                                                                                      |       |           |
+                                                                                                                      o       o       o - o - o
+                                                                                                                      |       |       |       |
+                                                                                                                      o - o - o       o       o
+                                                                                                                              |       |
+                                                                                                                              o       o
+                                                                                                                              |       |
+                                                                                                                              o - o - o
+                                                                                                                                  |
+                                                                                                                                  o
+                                                                                                                                  |
+                                                                                                                                  o
+                                                                                                                                  |
+                                                                                                                                  o
+                                                                                                                                  |
+                                                                                                                                  o
+                                                                                                                                  +
+                                                                                                                      o - o - o - o - o - o - o
+                                                                                                                      |       +   |           |
+                                                                                                                      o     + o   o - 2       o
+                                                                                                                      |       |   |           |
+                                                                                  o                                   o   o + o   o       o   o       o - o - o - o                           o -> South Caelia
+                                                                                  |                                   |           |       +   |       |           |                           |      Highlands
+                                                                              o - o - o               o - o - o - o + o - o - o - 3 - o - o - o + o - o           o        Dargentan's Lair   o
+                                                                              |   |   |               |               |       |   |           |                   |            /              |
+                                                                          o - o - o - o - o           o               o       o - o   o       o                   o - o - o - o - o - o - o - o
+                                                                          |   |   |   |   |           |               |       +   |   +   +   |
+                                                                  o - o - o - o - o - o - o - o - o - o               o       o - o   o - o   o
+                                  +                               |       |   |   |   |   |                           |           |   +       |
+                                  o - o - o - o - o               o       o - o - o - o - o                           o - o - o - o - o - o - o
+                                  |               |               |           |   |   |                                           +
+                                  o               o - o - o - o - o           o - o - o                                           o
+                                  |                                               |                                               |
+                                  o                                               o                                               o
+                                  |                                               |                                               |
+                                  o - o - o           o                           o                                               o
+                                  |       |           |                           |                                               |
+                                  o       o - o - o - o                   o - o - o - o - o                                       o
+                                  |           |                           |               |                                       |
+                                  o           o                       o - 4               5 - o                               o - o
+                                  |           |                       |                       |                               |
+                              o - o - o - o - o - o               o - o                       o - o                           o
+                              |           |       |               |                               |                           |
+                              o           o       o               o                               o               o - o - o - o
+                              |           |       |               |                               |               |           |
+                              o           o       o - o - o - o - o                               o - o - o - o - o           o - o - o - o                           o - o - o -> South Caelia
+                              |           |       |       |/- o   |                               |                                       |                           |              Highlands
+                          o - o           o - o - o       o       o                               o                                       o - o           o - o - o - o
+                          |               |               |       |                               |                                           |           |
+                          o - o - o - o - o               o       o - o                       6 - o                                           o - o - o - o
+                          |               |               |           |                       |
+                          o               o - o - o - o - o           o - 7               o - o
+                          |               |                               |               |
+                          o - o           o                               o - o - o - o - o
+                              |           |                                       |
+                              o - o - o - o                                       o
+                              |           |                                       |
+                o             o           o                                       o
+                |             |                                                   |
+            o - o - o         o                                                   o
+            |   |   |         |                                                   |
+o - o - o - o - o - o o - o - o                                               o - o - o
+|           |   |   | |                                                       |   |   |
+o           o - o - o o                                               o - o - o - o - o - o - o
+|                     |                                                       |   |   |
+o - o                 o                                                       o - o - o
+|   |                 |                                                           |
+o - o                 o                                                           o
+|   |                 |                                                           |
+o - o  - - - o - - -  o                                                           o
+|   |                 |                                                           |
+o - o             o - o                                                           o
+|   |             |                                                               |
+o - o             o                                                           o - o
+|   |             |                                                           |
+o - o             o - o - o - o                                               o
+                              |                                               |
+                              o           o - o - o - o - o                   o
+                              |           |               |                   |
+                              o           o               o - o - o - o - o - o
+                              |           |                       |
+                              o - o - o - o                       o
+                              |           |                       |
+                              o           o                       o
+                              |           |                       |
+                              o           o - o                   o
+                              |               |                   |
+                      o - o - o               o - o - o - o - o - o
+                      |                       |                   |
+                      o                       o               o - o
+                      |                       |               |
+                      o                       o               o
+                      |                       |               |
+                      o                       o       o       o
+                      |                       |       |       |
+                      o                       o - o - o - o - o
+                      |
+                      o
+                      |
+    The Sacred <- o - o
+     Megalith         |
+                      o
+                      |
+                      o
+                      |
+                      o -> Bluebonnet Pass
+                      |
+                      o
+                      |
+                      o
+                      |
+                      o
+                      |
+                      o
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=-=-=-=-=-=-=- South Caelia Forests and Mountains  -=-=-=-=-=-=-=-=-=-=-
+KEY: \ / = up/down      x + = door
+
+                                      1
+                                      |    The
+                                      o Beachhead
+                                      |/
+                              o - o - o - o - o
+                                  |           |
+                                  o           o
+                                  |           |
+                              o - o       o - o - o
+                              |           |       |
+                              o           o       o
+                              |           |       |
+                              o           o - o - o
+                              |               |
+                          o - o - o           o
+                          |       |           |
+                          o       o       o - o - o
+                          |       |       |       |
+                          o - o - o       o       o
+                                  |       |
+                                  o       o
+                                  |       |
+                                  o - o - o
+                                      |
+                                      o
+                                      |
+                                      o
+                                      |
+                                      o
+                                      |
+                                      o
+                                      +
+                                  Borderhold
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=-=-=-=-=-=-=- South Caelia Forests and Mountains  -=-=-=-=-=-=-=-=-=-=-
+KEY: \ / = up/down      x + = door
+
+                Northern South                ***POINTS OF INTEREST***
+                    Caelia                     |1: A public Well
+                       +                       |2: Aldern's Store
+           o - o - o - o - o - o - o
+           |       +   |           |
+           o     + o   o - 2       o
+           |       |   |           |
+           o   o + o   o       o   o     o-o-o-o             o -> Highlands
+           |           |       +   |     |     | Dargentan's |
+ Wailing + o - o - o - 1 - o - o - o + o-o     o     Lair    o
+Mountains  |       |   |           |           |      /      |
+           o       o - o   o       o           o-o-o-o-o-o-o-o
+           |       +   |   +   +   |
+           o       o - o   o - o   o
+           |           |   +       |
+           o - o - o - o - o - o - o
+                       +
+                       o
+                       |
+                       o
+                       |
+                       o
+                       |
+                       o
+                       |
+                     o-o
+                     |
+                     o
+                     |
+      The Forest's <-o
+         Heart       |
+                     o-o-o-o
+                           |
+                           o-o-o-o
+                                 |
+                                 o-o     o-o-o -> Highlands
+                                   |     |
+                                   o-o-o-o
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=-=-=-=-=-=-=- South Caelia Forests and Mountains  -=-=-=-=-=-=-=-=-=-=-
+KEY: \ / = up/down      x + = door
+
+                                    o
+                                    |
+                                o - o - o               o-o-o-o + Borderhold
+                                |   |   |               |
+                            o - o - o - o - o           o
+                            |   |   |   |   |           |
+                    o - o - o - o - o - o - o - o - o - o
+    +               |       |   |   |   |   |
+    o-o-o-o-o       o       o - o - o - o - o          ***POINTS OF INTEREST***
+    |       |       |           |   |   |               |b: Interesting bushes
+    o       o-o-o-o-o           o - o - o
+    |                               |
+    o                               o
+    |                               |
+    o-o-o     o                     o
+    |   |     |                     |
+    o   o-o-o-o             o - o - o - o - o
+    |     |                 |               |
+    o     o             o - b               b - o
+    |     |             |                       |
+  o-o-o-o-o-o       o - o                       o - o
+  |     |   |       |                               |
+  o     o   o       o                               o       o-o-o -> Road to
+  |     |   |       |                               |       |    the Borderhold
+  o     o   o-o-o-o-o                               o-o-o-o-o
+  |     |   |   | U1|                               |                o
+  |     |   |   |/  |                               |                |
+o-o     o-o-o   o   o                               o        o - o - o
+|       |       |   |                               |       /        |
+o-o-o-o-o       o   o - o                       b - o      o         o
+|       |       |       |                       |         /
+o       o-o-o-o-o       o - b               o - o       D1
+|       |                   |               |
+o-o     o                   o - o - o - o - o
+  |     |                           |
+  o     o                           o
+  |                                 |
+  v                                 v
+Near the Beach                  Monoliths
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=-=-=-=-=-=-=- South Caelia Forests and Mountains  -=-=-=-=-=-=-=-=-=-=-
+KEY: \ / = up/down      x + = door
+
+                        Webbed Forest                        The Forest's Heart
+                              ^                                       ^
+                              |                                       |
+                o             o                                       o
+                |             |                                       |
+            o - o - o         o                                       o
+            |   |   |         |                                       |
+o - o - o - o - 1 - o o - o - o                                   o - o - o
+|           |   |   | |                                           |   |   |
+o           o - o - o o                                   o - o - o - o - o - o - o
+|                     |                                           |   |   |
+o - o                 o                                           o - o - o
+|   |                 |                                               |
+o - o                 o                                               o
+|   |                 |                                               |
+o - o  - - - o - - -  o                                               o
+|   |                 |                                               |
+o - o             o - o                                               o
+|   |             |                                                   |
+o - o             o                                               o - o
+|   |             |                                               |
+o - o             o - o - o - o                                   o
+                              |                                   |
+                              o     o - o - o - o - o             o
+                              |     |               |             |
+                              o     o               o - o - o-o-o-o
+                              |     |                       |
+                              o-o-o-o                       o
+                              |     |                       |
+                              o     o                       o
+                              |     |                       |
+                              o     o - o                   o
+                              |         |                   |
+                      o - o - o         o - o - o - o - o - o
+                      |                 |                   |
+                      o                 o               o - o
+                      |                 |               |
+                      o                 o               o
+                      |                 |               |
+                      o                 o       2       o
+                      |                 |       |       |
+                      o                 o - o - o - o - o
+                      |
+                      o
+                      |                          ***POINTS OF INTEREST***
+    The Sacred <- o - o                           |1: Large Bonfire
+     Megalith         |                           |2: A Water Sprite
+                      o                           |3: Monoliths
+                      |
+                      o
+                      |
+                      o -> Bluebonnet Pass
+                      |
+                      o
+                      |
+                      o
+                      |
+                      o
+                      |
+                      3

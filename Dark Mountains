@@ -1,0 +1,89 @@
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- Dark Mountains  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+KEY: \ / = up/down      x + = door
+
+               Cold Fields                ***POINTS OF INTEREST***
+               ^   ^   ^                   |1: Trail Overlook
+               |   |   |                   |2: Falls Overlook
+               o - o -/
+                   |
+                   o - o - o - o
+                               |
+                               o - o - 1
+                                   |
+                                   o - o - o
+                                   |       |
+                                   o       o - o - o - o -> Iron Hills
+                                   |
+                                   o
+                                   |
+       o - o - o               o - o - o
+       |       |                       |
+       o       o - o - o - o - o   o - o
+       |               |   |   |   |
+       o               o   2   o - o
+       |
+       o - o - o
+               |
+               o
+                \
+                 o
+                  \
+                   o
+                   |
+                   o
+                    \
+                     o
+                      \
+                       o
+                       |
+                       v
+                      Kaas
+                     Plains
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+&3-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- &2&bDark Mountains&0  &3-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-&0
+KEY: &9&b\ /&0 = up/down      &5x&0, &5+&0 = door
+ 
+               &6Cold Fields                &3&b***POINTS OF INTEREST***&0&3
+               ^   ^   ^&0                   |&1&b1&0: trail overlook&3
+               |   |   |&0                   |&1&b2&0: falls overlook&3
+               o - o -/
+                   |
+                   o - o - o - o
+                               |
+                               o - o - &1&b1&0&3
+                                   |
+                                   o - o - o
+                                   |       |
+                                   o       o - o - o - o -> &6Iron Hills&3
+                                   |
+                                   o
+                                   |
+       o - o - o               o - o - o
+       |       |                       |
+       o       o - o - o - o - o   o - o
+       |               |   |   |   |
+       o               o   &1&b2&0&3   o - o
+       |
+       o - o - o
+               |
+               o
+                &9&b\&0&3
+                 o
+                  &9&b\&0&3
+                   o
+                   |
+                   o
+                    &9&b\&0&3
+                     o
+                      &9&b\&0&3
+                       o
+                       |
+                       v
+                      &6Kaas
+                     Plains&3
+ 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-&0
+/s

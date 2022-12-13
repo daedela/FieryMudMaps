@@ -1,0 +1,67 @@
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-  Mielikki Farmlands  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+KEY: \ / = up/down      x + = door
+
+                Dairy   Frakati         Kingdom of     Temple of  ***POINTS OF INTEREST***
+                Farm    Reservation    the Meer Cats   the Kaaz    |F : a little stone well
+Abbey              ^     ^                       ^       ^
+of                 |     |                       |       |
+St.    <-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-> Village of
+George   | | | | | | | | | | | | | | | | | | | | | | | | |    Mielikki
+         o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o
+         | | | | | | | | | | | | | | | | | | | | | | | | |
+         o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o
+         | | | | | | | | | | | | | | | | | | | | | | | | |
+         o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o
+         | | | | | | | | | | | | | | | | | | | | | | | | |
+         o-o-o-o-o-o-o-o-o-o-o-o-F-o-o-o-o-o-o-o-o-o-o-o-o
+         | | | | | | | | | | | | | | | | | | | | | | | | |
+         o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o
+         | | | | | | | | | | | | | | | | | | | | | | | | |
+         o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o
+         | |       | | |       | | |       | | |       | |
+         o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o
+         | |       | | |  x    | | |       | | |       | |
+         | |       | | |   o-o | | |       | | |       | |
+         o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o
+         | | |                           |
+         Rocky                           Morgan
+         Outback                         Hill
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+&3-=-=-=-=-=-=-=-=-=-=-=-=-=-=-  &2&bMielikki Farmlands&0&3  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-&0
+KEY: \ / = up or down   # = door
+                                                                
+&6                Dairy   Frakati         Kingdom of     Temple of  
+&6                Farm    Reservation    the Meer Cats   the Kaaz&0    
+&6Abbey&3              ^     ^                       ^       ^          
+&6of&3                 |     |                       |       |          
+&6St.&3   <--o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o--> &6Village of&0  
+&6George   &3|&2 | | | | | &3|&2 | | | | | &3|&2 | | | | | &3|&2 | | | | | &3|&0    &6Mielikki&0
+         &3o&2-o-o-o-o-o-&3o&2-o-o-o-o-o-&3o&2-o-o-o-o-o-&3o&2-o-o-o-o-o-&3o&0     
+         &3|&2 | | | | | &3|&2 | | | | | &3|&2 | | | | | &3|&2 | | | | | &3|&0      
+         &3o&2-o-o-o-o-o-&3o&2-o-o-o-o-o-&3o&2-o-o-o-o-o-&3o&2-o-o-o-o-o-&3o&0 
+         &3|&2 | | | | | &3|&2 | | | | | &3|&2 | | | | | &3|&2 | | | | | &3|&0 
+         &3o&2-o-o-o-o-o-&3o&2-o-o-o-o-o-&3o&2-o-o-o-o-o-&3o&2-o-o-o-o-o-&3o&0
+         &3|&2 | | | | | &3|&2 | | | | | &3|&2 | | | | | &3|&2 | | | | | &3|&0    
+         &3o&2-o-o-o-o-o-&3o&2-o-o-o-o-o-&4&bF&0&2-o-o-o-o-o-&3o&2-o-o-o-o-o-&3o&0
+         &3|&2 | | | | | &3|&2 | | | | | &3|&2 | | | | | &3|&2 | | | | | &3|&0
+         &3o&2-o-o-o-o-o-&3o&2-o-o-o-o-o-&3o&2-o-o-o-o-o-&3o&2-o-o-o-o-o-&3o&0
+         &3|&2 | | | | | &3|&2 | | | | | &3|&2 | | | | | &3|&2 | | | | | &3|&0
+         &3o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-&3o&0
+         &3|&2 |       | &3|&2 |       | &3|&2 |       | &3|&2 |       | &3|&0
+         &3o&2-o-&0o-o-o&2-o-&3o&2-o-&0o-o-o&2-o-&3o&2-o-&0o-o-o&2-o-&3o&2-o-&0o-o-o&2-o-&3o&0
+         &3|&2 |       | &3|&2 |  &9&b\&0&2    | &3|&2 |       | &3|&2 |       | &3|&0
+         &3|&2 |       | &3|&2 |  &9&b#&0o-o&2 | &3|&2 |       | &3|&2 |       | &3|&0
+         &3o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o&0
+         &2| | |                           &3|&0
+         &6Rocky                           Morgan
+         Outback                         Hill&0
+ 
+ 
+         &3&b***POINTS OF INTEREST***&0
+         |&4&bF&0 : a little stone well
+ 
+&3-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-&0 
+/s

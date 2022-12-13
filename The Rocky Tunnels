@@ -1,0 +1,59 @@
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-  The Rocky Tunnels  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+KEY: \ / = up/down      x + = door
+
+             Misty                                          ***POINTS OF INTEREST***
+  o - o - o Caverns                           1              |1: A pile of Bodies
+  |   |   |  /                                |              |2: The Stone Temple
+  o - o - o o                         o - o - o - o - o      |3: A Giant Stone Statue
+      |    /                          |   |   |   |   |
+  o - o - o                           2 - o - o - o - o - o
+  |       |                           |   |   |   |   |
+  o - o   o - o           o - o       o - o - o - o - o
+      |   |   |           |   |           |   |   |
+      o - o - o - o - o - o - o           o - o - o
+      |   |           |   |   |           |   |   |
+  o - o - o - o       o   3 - o           o - o - o
+  |       |   |       |                       |
+  o       o   o - o   o       o - o - o - o - o
+  |       |       |   |       |           |
+  o - o - o - o   o - o   o - o       o - o - o
+      |       |   |       |   |       |   |   |
+      o   o - o   o       o - o - o   o - o - o
+      |   |   |   |           |   |  Misty Caverns
+      o - o   o   o - o - o - o   o  /
+              |       |           | o
+              o - o - o           |/
+                                  o
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+&3-=-=-=-=-=-=-=-=-=-=-=-=-=-=-  &2&bThe Rocky Tunnels&0  &3-=-=-=-=-=-=-=-=-=-=-=-=-=-=-&0
+KEY: &9&b\ /&0 = up/down      &5x&0, &5+&0 = door
+ 
+             &6Misty                                          &3&b***POINTS OF INTEREST***&0
+  o - o - o &6Caverns                           &1&b1&0              |&1&b1&0: A pile of bodies
+  |   |   |  &9&b/&0                                |              |&1&b2&0: a strange pillar
+  o - o - o o                         o - o - o - o - o      |&1&b3&0: a giant stone statue
+      |    &9&b/&0                          |   |   |   |   |
+  o - o - o                           &1&b2&0 - o - o - o - o - o
+  |       |                           |   |   |   |   |
+  o - o   o - o           o - o       o - o - o - o - o
+      |   |   |           |   |           |   |   |
+      o - o - o - o - o - o - o           o - o - o
+      |   |           |   |   |           |   |   |
+  o - o - o - o       o   &1&b3&0 - o           o - o - o
+  |       |   |       |                       |
+  o       o   o - o   o       o - o - o - o - o
+  |       |       |   |       |           |
+  o - o - o - o   o - o   o - o       o - o - o
+      |       |   |       |   |       |   |   |
+      o   o - o   o       o - o - o   o - o - o
+      |   |   |   |           |   |  &6Misty Caverns&0
+      o - o   o   o - o - o - o   o  &9&b/&0
+              |       |           | o
+              o - o - o           |&9&b/&0
+                                  o
+ 
+&3-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-&0
+/s

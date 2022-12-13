@@ -1,0 +1,53 @@
+-=-=-=-=-=-=-=-=-=-=-=-=-=- The Frakati Reservation -=-=-=-=-=-=-=-=-=-=-=-=-=-
+KEY: \ / = up/down      x + = door
+
+U2                                       U3            ***POINTS OF INTEREST***
+  \                                     /               |1: Frakati Hunting grounds
+   o - o - o - o - o - o - o - o - o - o                |2: An Oak Cabnet
+   |     o         |   |           |   |                |3: A Large Tower
+   |    /|         |   |           |   |
+   o   o o         o - o           o - o
+   |   |/          |   |           |   |
+U1 o   o           o - o           o - o U4
+  \|   |           |   |           |   |/
+   o - o - o - o - o - o - o - o - o - o
+                           |   |   |
+            Well Hidden    o - o - o         o - o - o - o - o - o - o - o - o - o
+               Entrance        |   |        /|           |           |       |   |\
+               ^   o - o       o - o      D2 o           o           o       o - o D3
+               |   |   |       |   |         |                               |   |
+               o - o - o - o + o - o - o     o           2           o       o - o
+                   |   |       |   |   |     |           |           |       |   |
+                   o - o       o - 1 - o     o - o - o - o - o - o - o - o - o - 3
+                               |   |   |    /                        |   |   |    \
+                               o - o - o  D1                         o - o - o     D4
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+&3-=-=-=-=-=-=-=-=-=-=-=-=-=- &2&bThe Frakati Reservation&0 &3-=-=-=-=-=-=-=-=-=-=-=-=-=-&0
+KEY: &9&b\ /&0 = up/down      &5x&0, &5+&0 = door
+ 
+&9&bU2                                       U3            &3***POINTS OF INTEREST***&9
+  \                                     /&0               |&1&b1&0: Frakati hunting grounds
+   o - o - o - o - o - o - o - o - o - o                |&1&b2&0: an oak cabnet
+   |     o         |   |           |   |                |&1&b3&0: a large tower
+   |    &9&b/&0|         |   |           |   |
+   o   o o         o - o           o - o
+   |   |&9&b/&0          |   |           |   |
+&9&bU1&0 o   o           o - o           o - o &9&bU4&0
+  &9&b\&0|   |           |   |           |   |&9&b/&0
+   o - o - o - o - o - o - o - o - o - o
+                           &3|   |   |&0
+            &6well hidden&3    o - o - o&0          o - o - o - o - o - o - o - o - o - o
+               &6entrance&3        |   |         &9&b/&0|           |           |       |   |&9&b\&0
+               &3^   o - o       o - o       &9&bU2&0 o           o           o       o - o &9&bU3&0
+               &3|   |   |       |   |&0          |                               |   |
+               &3o - o - o - o &5+&3 o - o - o&0      o           &1&b2&0           o       o - o
+                   &3|   |       |   |   |&0      |           |           |       |   |
+                   &3o - o       o - &1&b1&0&3 - o&0      o - o - o - o - o - o - o - o - o - &1&b3&0
+                               &3|   |   |     &9&b/&0                        |   |   |    &9&b\&0
+                               &3o - o - o&0   &9&bU1&0                         o - o - o     &9&bU4&0
+ 
+&3-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-&0
+/s

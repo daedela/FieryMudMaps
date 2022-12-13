@@ -1,0 +1,113 @@
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=- Eldorian Foothills  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+KEY: \ / = up/down      x + = door
+                                       Doom   Black Woods
+                                          ^   ^
+                                          |   |
+                          o-o-o-o-o-o-o-o-o-o-o
+                          | | | | | | | | | | |
+                          o-r-r-r-r-r-r-r-r-o-o
+                          | | | | | |     | | |
+                        o-o-r-o-o-o-o o-o r-o-o
+                        | | | | |     | | | | |
+                        o-o-r-o-o   o-r-r-r o o
+                        | | | | |   | |       |
+                o-o-o-o-o-o-r-o-o   o-r-o o-o-o
+               /| | | | | | | | |   | | | | |
+ Miner's Cavern o-r-r-r-r-r-r-o-o   o-r-r-r-r o-o-o-o-o-o-o-o
+                | | | | | | | |             | | | | | | | |
+                o-r-o-o-o-o-o-o           o-r o-o-r-r-r-r-r
+                | |                       | | | | |       |
+                o-r-r-o                   o-r-r-r-r-o o-r-r o-o
+                | | | |                   | | | |   | | |   | |
+                o-o-r-o                   o-o-o-o-o-o o-r o-o-o-o
+                    | |                               | | | | | |
+                o-o-r-o                               o-r o r-r-r -> The Great
+                | | | |                               | |   |           Road
+              o-o-r-r-o                               o-r-r-r
+              | | | | |                               | | | |
+            r-r-r-r-o-o                               o-o-o-o
+            |   | | |                                 |
+ Brush <- r-r   o-o-o                                 v
+ Lands    |                                       Combat In
+          v                                        Eldoria
+        Anduin
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+With the road colored
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=- Eldorian Foothills  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+KEY: \ / = up/down      x + = door
+
+                                       Doom   Black Woods
+                                          ^   ^
+                                          |   |
+                          o-o-o-o-o-o-o-o-o-o-o
+                          | | | | | | | | | | |
+                          o-&3r-r-r-r-r-r-r-r&0-o-o
+                          | &3|&0 | | | |     &3|&0 | |
+                        o-o-&3r&0-o-o-o-o o-o &3r&0-o-o
+                        | | &3|&0 | |     | | &3|&0 | |
+                        o-o-&3r&0-o-o   o-&3r-r-r&0 o o
+                        | | &3|&0 | |   | &3|&0       |
+                o-o-o-o-o-o-&3r&0-o-o   o-&3r&0-o o-o-o
+               /| | | | | | &3|&0 | |   | &3|&0 | | |
+ Miner's Cavern o-&3r-r-r-r-r-r&0-o-o   o-&3r-r-r-r&0 o-o-o-o-o-o-o-o
+                | &3|&0 | | | | | |             &3|&0 | | | | | | |
+                o-&3r&0-o-o-o-o-o-o           o-&3r&0 o-o-&3r-r-r-r-r&0
+                | &3|&0                       | &3|&0 | | &3|&0       &3|&0
+                o-&3r-r&0-o                   o-&3r-r-r-r&0-o o-&3r-r&0 o-o
+                | | &3|&0 |                   | | | |   | | &3|&0   | |
+                o-o-&3r&0-o                   o-o-o-o-o-o o-&3r&0 o-o-o-o
+                    &3|&0 |                               | &3|&0 | | | |
+                o-o-&3r&0-o                               o-&3r&0 o &3r-r-r ->&0 The Great
+                | | &3|&0 |                               | &3|&0   &3|&0           Road
+              o-o-&3r-r&0-o                               o-&3r-r-r&0
+              | | &3|&0 | |                               | | | |
+            &3r-r-r-r&0-o-o                               o-o-o-o
+            &3|&0   | | |                                 |
+ Brush <- &3r-r&0   o-o-o                                 v
+ Lands    &3|&0                                       Combat In
+          v                                        Eldoria
+        Anduin
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+&3-=-=-=-=-=-=-=-=-=-=-=-=-=-=- &2&bEldorian Foothills&0  &3-=-=-=-=-=-=-=-=-=-=-=-=-=-=-&0
+KEY: &9&b\ /&0 = up/down  &5x&0, &5+&0 = door  &3r&0 = Great Northern Road  &4&b*&0 = a small creek
+  
+                             &6Severan's Doom   Black Woods&2
+                                          ^   &3^&2
+                                          |   &3|&2
+                          o-o-o-o-o-o-o-o-o-o-&3o&2
+                          | | | | | | | | | | &3|&2
+                          o-&3r-r-r-r-r-r-r-r-o-o&2
+                          | &3|&2 | | | |     &3|&2 | |
+                        o-o-&3r&2-o-o-o-o o-o &3r&2-o-o
+                        | | &3|&2 | |     | | &3|&2 | |
+                        &4&b*-*-&0&3r&4&b-*-*&0&2   o-&3r-r-r&2 o o
+                        | | &3|&2 | |   | &3|&2       |
+                o-o-o-o-o-o-&3r&2-o-o   o-&3r&2-o o-o-o
+               &9&b/&0&2| | | | | | &3|&2 | |   | &3|&2 | | |
+ &6Miner's Cavern&2 o-&3r-r-r-r-r-r&2-o-o   o-&3r-r-r-r&2 o-o-o-o-o-o-o-o
+                | &3|&2 | | | | | |             &3|&2 | | | | | | |
+                o-&3r&2-o-o-o-o-o-o           o-&3r&2 o-o-&3r-r-r-r-r&2
+                | &3|&2                       | &3|&2 | | &3|&2       &3|&2
+                o-&3r-r&2-o                   o-&3r-r-r-r&2-o o-&3r-r&2 o-o
+                | | &3|&2 |                   | | | |   | | &3|&2   | |
+                o-o-&3r&2-o                   o-o-o-o-&4&b*&0&2-o o-&3r&2 o-o-o-o
+                    &3|&2 |                               | &3|&2 | | | |
+                o-o-&3r&2-o                               o-&3r&2 o &3r-r-r ->&6 The Great&2
+                | | &3|&2 |                               | &3|&2   &3|&6           Road&2
+              o-o-&3r-r&2-o                               o-&3r-r-r&2
+              | | &3|&2 | |                               | | | |
+            &3r-r-r-r&2-o-o                               o-o-o-o
+            &3|&2   | | |                                 |
+ &6Brush&3 <- r-r&2   o-o-o                                 v
+ &6Lands&2    &3|&2                                       &6Combat in&2
+          v                                       &6Eldoria
+        City of
+        Anduin&0
+
+&3-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-&0
+/s
