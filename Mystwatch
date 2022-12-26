@@ -19,8 +19,8 @@ KEY: \ / = up/down      x + = door
        |     o - o - o     |               o  2     o   o  o
        |         |         |               |  +     |   |  |
        o - - - - o - - - - o               |  o - - o - 4  |
-    U4 |         |\        | U3            o       /       o
-      \|         | o > ?   |/              |     D2        |
+    U4 |        /|         | U3            o       /       o
+      \|   ? < o |         |/              |     D2        |
        o - - - - o - - - - o               o - o - o - o - o
                  |                        /   /         \   \
                  o                       o  D4           D3  o
