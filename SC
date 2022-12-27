@@ -326,3 +326,419 @@ o - o             o - o - o - o                                   o
                       o
                       |
                       3
+                      
+                      
+                      
+                      
+659
+
+-=-=-=-=-=-=-=-=-=-=-=- South Caelia Wailing Mountains  -=-=-=-=-=-=-=-=-=-=-=-
+KEY: &9&b\ /&0 = up/down      &5x&0, &5+&0 = door
+ 
+                                      1    The
+                                      | Beachhead
+                                      o ^
+                                      |/
+                              2 - o - o - o - o        ***POINTS OF INTEREST***
+                                  |           |         |1: a holy seal
+                                  o           o         |2: roc nesting grounds
+                                  |           |
+                              o - o       o - o - o
+                              |           |       |
+                              o           o       o
+                              |           |       |
+                              o           o - o - o
+                              |               |
+                          o - o - o           o
+                          |       |           |
+                          o       o       o - o - o
+                          |       |       |       |
+                          o - o - o       o       2
+                                  |       |
+                                  o       o
+                                  |       |
+                                  o - o - o
+                                      |
+                                      o
+                                      |
+                                      o
+                                      |
+                                      o
+                                      |
+                                      o
+                                      +
+                                      v
+                                  Borderhold
+ 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+&3-=-=-=-=-=-=-=-=-=-=-=- &2&bSouth Caelia Wailing Mountains&0  &3-=-=-=-=-=-=-=-=-=-=-=-&0
+KEY: &9&b\ /&0 = up/down      &5x&0, &5+&0 = door
+ 
+                                      &1&b1&0    &6The&0
+                                      | &6Beachhead&0
+                                      o &3^&0
+                                      |&9&b/&0
+                              &1&b2&0&3 - o - o - o - o        &3&b***POINTS OF INTEREST***&0&3
+                                  |           |&0         |&1&b1&0: a holy seal&3
+                                  o           o&0         |&1&b2&0: roc nesting grounds&3
+                                  |           |
+                              o - o       o - o - o
+                              |           |       |
+                              o           o       o
+                              |           |       |
+                              o           o - o - o
+                              |               |
+                          o - o - o           o
+                          |       |           |
+                          o       o       o - o - o
+                          |       |       |       |
+                          o - o - o       o       &1&b2&0&3
+                                  |       |
+                                  o       o
+                                  |       |
+                                  o - o - o
+                                      |
+                                      o
+                                      |
+                                      o
+                                      |
+                                      o
+                                      |
+                                      o
+                                      &5+&3
+                                      v
+                                  &6South Caelia&0
+                                  &6Borderhold&3
+ 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-&0
+/s
+
+660
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=- South Caelia Borderhold -=-=-=-=-=-=-=-=-=-=-=-=-=-
+KEY: &9&b\ /&0 = up/down      &5x&0, &5+&0 = door
+ 
+                   South Caelia                 ***POINTS OF INTEREST***
+                 Wailing Mountains               |*: A public well
+                         ^                       |1: Aldern's Store
+                         +                       
+             o - o - o - o - o - o - o
+             |       +   |           |
+             o     + o   o - 1       o
+             |       |   |           |
+             o   o + o   o       o   o     o-o-o-o Dargentan's o -> Highlands
+             |           |       +   |     |     |     Lair    |
+ Fangorn < + o - o - o - * - o - o - o + o-o     o       ^     o
+ Forest      |       |   |           |           |      /      |
+             o       o - o   o       o           o-o-o-o-o-o-o-o
+             |       +   |   +   +   |
+             o       o - o   o - o   o
+             |           |   +       |
+             o - o - o - o - o - o - o
+                         +
+                         o
+                         |
+                         o
+                         |
+                         o
+                         |
+                         o
+                         |
+                       o-o
+                       |
+                       o
+                       |
+          Anlun Vale <-o
+                       |
+                       o-o-o-o
+                             |
+                             o-o-o-o
+                                   |
+                                   o-o     o-o-o -> Highlands
+                                     |     |
+                                     o-o-o-o
+ 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+&3-=-=-=-=-=-=-=-=-=-=-=-=-=- &2&bSouth Caelia Borderhold&0 &3-=-=-=-=-=-=-=-=-=-=-=-=-=-&0
+KEY: &9&b\ /&0 = up/down      &5x&0, &5+&0 = door
+ 
+                   &6South Caelia                 &3&b***POINTS OF INTEREST***&0
+                 &6Wailing Mountains&0               |&C&4&b*&0: a public well
+                         &3^&0                       |&1&b1&0: Aldern's Store
+                         &5+&0                       |&1&b2&0: Tavern of the Fallen Star
+             o - o - o - o - o - o - o
+             |       &5+&0   |           |
+             o     &5+&0 o   o - &1&b1&0       o
+             |       |   |           |
+             o   o &5+&0 o   o       o   o&3     o-o-o-o&6 Dargentan's&3 o -> &6Highlands&0
+             |           |       &5+&0   |&3     |     |&6     Lair&3    |&6
+ Fangorn&3 < &5+&0 o - o - o - &C&4&b*&0 - o - o - o &5+&3 o-o     o       &9&b^&0&3     o&6
+ Forest&0      |       |   |           |           &3|      &9&b/&0      &3|&0
+             o       o - o   o       o           &3o-o-o-o-o-o-o-o&0
+             |       &5+&0   |   &5+   +&0   |
+             o       &1&b2&0 - o   o - o   o
+             |           |   &5+&0       |
+             o - o - o - o - o - o - o
+                         &5+&3
+                         o
+                         |
+                         o
+                         |
+                         o
+                         |
+                         o
+                         |
+                       o-o
+                       |
+                       o
+                       |
+          &6Anlun Vale&3 <-o
+                       |
+                       o-o-o-o
+                             |
+                             o-o-o-o
+                                   |
+                                   o-o     o-o-o -> &6Highlands&3
+                                     |     |
+                                     o-o-o-o
+ 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-&0
+/s
+
+
+661
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- Fangorn Forest  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+KEY: &9&b\ /&0 = up/down      &5x&0, &5+&0 = door
+ 
+                                    o
+                                    |
+                                o - o - o               o-o-o-o + Borderhold
+                                |   |   |               |
+                            o - o - o - o - o           o
+                            |   |   |   |   |           |
+   ???              o - o - o - o - o - o - o - o - o - o
+    +               |       |   |   |   |   |
+    o-o-o-o-o       o       o - o - o - o - o          ***POINTS OF INTEREST***
+    |       |       |           |   |   |               |1: interesting bushes
+    o       o-o-o-o-o           o - o - o
+    |                               |
+    o                               o
+    |                               |
+    o-o-o     o                     o
+    |   |     |                     |
+    o   o-o-o-o             o - o - o - o - o
+    |     |                 |               |
+    o     o             o - 1               1 - o
+    |     |             |                       |
+  o-o-o-o-o-o       o - o                       o - o
+  |     |   |       |                               |
+  o     o   o       o                               o       o-o-o -> road to
+  |     |   |       |                               |       |    the Borderhold
+  o     o   o-o-o-o-o                               o-o-o-o-o
+  |     |   |   | U1|                               |                
+  |     |   |   |/  |                               |              
+o-o     o-o-o   o   o                               o       
+|       |       |   |                               |     
+o-o-o-o-o       o   o - o                       1 - o     
+|       |       |       |                       |                       
+o       o-o-o-o-o       o - 1               o - o         _____________________
+|       |                   |               |            |              
+o-o     o                   o - o - o - o - o            |                 o
+  |     |                           |                    |                 |
+  o     o                           o                    |         o - o - o 
+  |                                 |                    |        /        |
+  v                                 v                    |       o         o
+Anlun Vale                     Anlun Vale                |      /
+and Beach                      and Beach                 |    U1
+ 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+&3-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- &2&bFangorn Forest&0  &3-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-&0
+KEY: &9&b\ /&0 = up/down      &5x&0, &5+&0 = door
+ &2
+                                    o
+                                    |
+                                o - o - o&3               o-o-o-o &5+ &6Borderhold&2
+                                |   |   |&3               |&2
+                            o - o - o - o - o&3           o&2
+                            |   |   |   |   |&3           |&1&b
+   ???&0&3              o - o - o - o - o - o - o - o - o - o
+    &5+&3               |&2       |   |   |   |   |&3
+    o-o-o-o-o       o&2       o - o - o - o - o          &3&b***POINTS OF INTEREST***&0&3
+    |       |       |&2           |   |   |&0               |&1&b1&0: interesting bushes&3
+    o       o-o-o-o-o&2           o - o - o&3
+    |&2                               |&3
+    o&2                               o&3
+    |&2                               |&3
+    o&2-o-o     o                     o&3
+    |&2   |     |                     |&3
+    o&2   o-o-o-o             o - o - o - o - o&3
+    |&2     |                 |               |&3
+    o&2     o             o - &1&b1               1&0&2 - o&3
+    |&2     |             |                       |&3
+  o&2-o-o-o-o-o       o - o                       o - o&3
+  |&2     |   |       |                               |&3
+  o&2     o   o       o                               o&3       o-o-o -> &6road to&3
+  |&2     |   |       |                               |&3       |    &6the Borderhold&3
+  o&2     o   o-o-o-o-o                               o-o&3-o-o-o
+  |&2     |   |   | &9&bU1&0&2|                               |&3
+  |&2     |   |   |&9&b/&0&2  |                               |&3
+o-o&2     o-o-o   o   o                               o&3
+|&2       |       |   |                               |&3
+o&2-o-o-o-o       o   o - o                       &1&b1&0&2 - o&3
+|&2       |       |       |                       |&3
+o&2       o-o-o-o-o       o - &1&b1&0&2               o - o&0         _____________________&3
+|&2       |                   |               |&0            |&3              
+o-o&2     o                   o - o - o - o - o&0            |&2                 o&3
+  |&2     |                           |&0                    |&2                 |&3
+  o&2     o                           o&0                    |&2         o - o - o&3 
+  |&2                                 |&0                    |&9&b        /&0&2        |&3
+  v&2                                 v&0                    |&2       o         o&6
+Anlun Vale                     Anlun Vale&0                |      &9&b/&0&6
+and Beach                      and Beach&0                 |    &9&bU1&0
+  
+&3-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-&0
+/s
+
+
+662
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=- Anlun Vale and Beach  -=-=-=-=-=-=-=-=-=-=-=-=-=-
+KEY: &9&b\ /&0 = up/down      &5x&0, &5+&0 = door
+ 
+                       Fangorn Forest                          Fangorn Forest
+                              ^                                       ^
+                              |                                       |
+                o             o                                       o
+                |             |                                       |
+            o - o - o         o                                       o
+            |   |   |         |                                       |
+o - o - o - o - 1 - o o - o - o                                   o - o - o
+|           |   |   | |                                           |   |   |
+o           o - o - o o                                   o - o - o - 5 - o - o - o
+|                     |                                           |   |   |
+o - o                 o                                           o - o - o
+|   |                 |                                               |
+o - o                 o                                               o
+|   |                 |                                               |
+o - o  - - - o - - -  o                                               o
+|   |                 |                                               |
+o - o             o - o                                               o
+|   |             |                                                   |
+o - o             o                                               o - o
+|   |             |                                               |
+o - o             o - o - o - o                                   o
+                              |                                   |
+                              o     o - o - o - o - o             o
+                              |     |               |             |
+                              o     o               o - o - o-o-o-o
+                              |     |                       |
+                              o-o-o-o                       o
+                              |     |                       |
+                              o     o                       4
+                              |     |                       |
+                              o     o - o                   o
+                              |         |                   |
+                      o - o - o         o - o - o - o - o - o
+                      |                 |                   |
+                      o                 o               o - o
+                      |                 |               |
+                      o                 o               o
+                      |                 |               |
+                      o                 o       2       o
+                      |                 |       |       |
+                      o                 o - o - o - o - o
+                      |
+                      o
+                      |                          ***POINTS OF INTEREST***
+    The Sacred <- o - o                           |1: a sacrificial pit
+     Megalith         |                           |2: a crystalline pool
+                      o                           |3: an ancient stone monolith
+                      |                           |4: a circle of stones
+                      o                           |5: the Heart of the Vale
+                      |
+                      o -> Bluebonnet Pass
+                      |
+                      o
+                      |
+                      o
+                      |
+                      o
+                      |
+                      3
+ 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+&3-=-=-=-=-=-=-=-=-=-=-=-=-=-=- &2&bAnlun Vale and Beach&0  &3-=-=-=-=-=-=-=-=-=-=-=-=-=-&0
+KEY: &9&b\ /&0 = up/down      &5x&0, &5+&0 = door
+ 
+                       &6Fangorn Forest                          Fangorn Forest&3
+                              ^&2                                       ^&3
+                              |&2                                       |&0
+                o&3             o&2                                       o&0
+                |&3             |&2                                       |&0
+            o - o - o&3         o&2                                       o&0
+            |   |   |&3         |&2                                       |
+&9&bo&0 - o - o - o - &1&b1&0 - o&3 o - o - o&2                                   o - o - o
+&9&b|&0           |   |   |&3 |&2                                           |   |   |
+&9&bo&0           o - o - o&3 o&2                                   o - o - o - &2&b&Y5&0&2 - o - o - o
+&9&b|&0&3                     |&2                                           |   |   |
+&9&bo - o&0&3                 o&2                                           o - o - o
+&9&b|   |&0&3                 |&2                                               |
+&9&bo - o&0&3                 o&2                                               o
+&9&b|   |&0&3                 |&2                                               |
+&9&bo - o&0&3  - - - o - - -  o&2                                               o
+&9&b|   |&0&3                 |&2                                               |
+&9&bo - o&0&3             o - o&2                                               o
+&9&b|   |&0&3             |&2                                                   |
+&9&bo - o&0&3             o&2                                               o - o
+&9&b|   |&0&3             |&2                                               |
+&9&bo - o&0&3             o - o - o - o&2                                   o&3
+                              |&2                                   |&3
+                              o     o - o - o - o - o&2             o&3
+                              |     |               |&2             |&3
+                              o     o               o - o - o-o-o-&2o&3
+                              |     |                       |
+                              o-o-o-o                       o
+                              |     |                       |
+                              o     o                       &4&b4&0&3
+                              |     |                       |
+                              o     o - o                   o
+                              |         |                   |
+                      o - o - o         o - o - o - o - o - o
+                      |                 |                   |
+                      o                 o               o - o
+                      |                 |               |
+                      o                 o               o
+                      |                 |               |
+                      o                 o       &6&b&B2&0&3       o
+                      |                 |       &4|&3       |
+                      o                 o - o - o - o - o
+                      |
+                      o
+                      |                          &3&b***POINTS OF INTEREST***&0&6
+    The Sacred&3 <- o - o&0                           |&1&b1&0: a sacrificial pit&6
+     Megalith&3         |&0                           |&6&b&B2&0: a crystalline pool&3
+                      o&0                           |&13&0: an ancient stone monolith&3
+                      |&0                           |&4&b4&0: a circle of stones&3
+                      o&0                           |&2&b&Y5&0: the Heart of the Vale&3
+                      |
+                      o -> &6Bluebonnet Pass&3
+                      |
+                      o
+                      |
+                      o
+                      |
+                      o
+                      |
+                      &13&0
+ 
+&3-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-&0
+/s
